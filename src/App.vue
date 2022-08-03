@@ -63,7 +63,6 @@ button{
   font-weight: bold;
   letter-spacing: 2px;
   cursor: pointer;
-  margin-bottom: 20px;
 }
 button:disabled {
   opacity: 0.2;

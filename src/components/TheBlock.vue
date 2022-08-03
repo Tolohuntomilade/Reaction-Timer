@@ -39,13 +39,13 @@ export default {
 
 <style>
     .block{
-        width: 400px;
-        border-radius: 20px;
+        width: 200px;
+        border-radius: 30px;
         background-color:rgb(7, 85, 27);
         color:white;
         text-align: center;
-        padding: 100px 0px;
-        margin: 0 auto;
+        padding: 20px 0px;
+        margin: 40px auto;
         font-weight: bold;
         font-size: larger;
         cursor: pointer;
