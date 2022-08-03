@@ -45,7 +45,7 @@ export default {
         color:white;
         text-align: center;
         padding: 100px 0px;
-        margin: 40px auto;
+        margin: 0 auto;
         font-weight: bold;
         font-size: larger;
         cursor: pointer;
